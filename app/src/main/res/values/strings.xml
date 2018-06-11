@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Points2You</string>
+    <string name="plus2Points">+2 Pontos</string>
+    <string name="plus3Points">+3 Pontos</string>
+    <string name="plus1Point">Lance livre</string>
+    <string name="nameTeamB">Time B</string>
+    <string name="nameTeamA">Time A</string>
+    <string name="nameReset">Zerar marcador</string>
+
+</resources>
